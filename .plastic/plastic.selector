@@ -1,0 +1,4 @@
+repository "Unity3DFirst@left4soul@cloud"
+  path "/"
+    br "/main"
+    co "/main"
